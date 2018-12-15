@@ -12,5 +12,5 @@ Please add your API key for the [theCatApi](http://thecatapi.com) in the index.h
 
 ## Usage
 
-Use the application with something what can serve a single page application. For example with serve.
+Use the application with something which can serve a single page application. For example with serve.
 
